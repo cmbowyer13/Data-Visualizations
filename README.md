@@ -3,7 +3,7 @@
 This repository contains Python code and sample datasets for loss prevention (LP) data visualization, used in the Data Analytics Working Group.
 
 ## 📂 Repository Structure
-- `data/` → Contains CSV and Excel files for different loss prevention scenarios.
+- `data/` → Contains CSV and Excel files for different loss prevention synthetic datasets. 
 - `lp_visualizations.ipynb` → Jupyter Notebook with visualization code.
 - `requirements.txt` → Dependencies for running the notebook.
 
